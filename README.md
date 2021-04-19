@@ -1,1 +1,1 @@
-# Primeiro exercicios de lógica no Portugol
+# Primeiro exercícios de lógica no Portugol
